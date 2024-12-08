@@ -1,0 +1,28 @@
+{
+  "title": "Créer un compte QOQO BELLO",
+  "buttons": {
+    "connectWithGoogle": "Connection avec Google",
+    "connectWithMail": "Connection avec Mail",
+    "goBack": "Retour",
+    "createAccount": "Créer mon compte",
+    "confirm": "Je confirme"
+  },
+  "labels": {
+    "email": "Adresse mail",
+    "password": "Mot de passe"
+  },
+  "placeholders": {
+    "email": "Adresse@mail.com",
+    "password": "Motdepasse"
+  },
+  "messages": {
+    "acceptTerms": "J'accepte les conditions de l'application",
+    "attention": "Attention",
+    "acceptAlert": "Veuillez accepter les conditions avant de continuer"
+  },
+  "terms": {
+    "termsOfUse": "Conditions Générales d'Utilisation",
+    "salesConditions": "Conditions Générales de Ventes",
+    "privacyPolicy": "Politique de Confidentialité"
+  }
+}

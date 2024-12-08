@@ -1,0 +1,20 @@
+{
+    "buttons": {
+      "unlock": "Débloquer"
+    },
+    "labels": {
+      "price": "Price",
+      "soldTo": "Vendu à",
+      "participation": "Participation"
+    },
+    "messages": {
+      "coconutCount": "Coconuts"
+    },
+    "header": {
+      "progressLabel": "Progress",
+      "coconutCount": "43",
+      "title": "Enchères à venir",
+      "titles": "Historique des enchères"
+    }
+  }
+  
